@@ -1,0 +1,29 @@
+Source : https://www.figure-eight.com/data-for-everyone/
+
+
+Name : Blockbuster database
+URL : https://www.figure-eight.com/wp-content/uploads/2016/03/blockbuster-top_ten_movies_per_year_DFE.csv
+Description : A data categorization job where we asked the crowd to find out information about the ten most popular movies, each year, for the past 40 years (1975-2015). 
+Dataset includes:
+
+Movie titles
+Poster URLs for each
+Genre information
+Run time
+MPAA ratings
+IMDB rating
+Rotten Tomato audience/critic rating
+Box office receipts (adjusted for inflation)
+
+
+
+Name : Academy Awards demographics
+URL : https://www.figure-eight.com/wp-content/uploads/2016/03/Oscars-demographics-DFE.csv
+Description : A data set concerning the race, religion, age, and other demographic details of all Oscar winners since 1928 in the following categories:
+Best Actor
+Best Actress
+Best Supporting Actor
+Best Supporting Actress
+Best Director
+
+
